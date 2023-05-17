@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Maj9AspNetDbFK.props" />
+</Project>
