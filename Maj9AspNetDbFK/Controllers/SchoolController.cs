@@ -107,5 +107,7 @@ namespace Maj9AspNetDbFK.Controllers
                     student => student.Courses
                 ).SingleOrDefault(s => s.Id == id);
         }
+
+        // This is an additional comment.
     }
 }
